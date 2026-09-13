@@ -13,8 +13,8 @@ A simple image encryption and decryption showcase using Python and AES (via `pyc
 ## Setup
 
 ```bash
-git clone https://github.com/D-Majumder/Image-Encryption.git
-cd Image-Encryption
+git clone https://github.com/D-Majumder/image-encryption.git
+cd image-encryption
 pip install pycryptodome
 python Image_Encrypt.py
 ```
